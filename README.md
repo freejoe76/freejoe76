@@ -1,4 +1,4 @@
-### Hi I'm [Joe Murphy](https://joemurph.com/).
+### Hi, I'm [Joe Murphy](https://joemurph.com/).
 
 <!--
 **freejoe76/freejoe76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
