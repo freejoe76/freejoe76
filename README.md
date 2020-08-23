@@ -1,5 +1,9 @@
 ### Hi, I'm [Joe Murphy](https://joemurph.com/).
 
+* [ ] Finish this README
+* [ ] Write something interesting
+* [ ] Come up with more to-do's
+
 <!--
 **freejoe76/freejoe76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
