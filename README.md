@@ -1,9 +1,10 @@
-### Hi, I'm [Joe Murphy](https://joemurph.com/).
+### Hi, I'm [Joe Murphy](https://joemurph.com/). This is my to-do list.
 
-* [ ] Finish this README
-* [ ] Write something interesting
+* [ ] Finish this README.
+* [ ] Make it actually interesting.
+* [X] Write self-deprecating joke.
 * [X] Figure out how to check the checkbox.
-* [ ] Come up with more to-do's
+* [ ] Come up with more to-do's.
 
 <!--
 **freejoe76/freejoe76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
