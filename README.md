@@ -2,6 +2,7 @@
 
 * [ ] Finish this README
 * [ ] Write something interesting
+* [X] Figure out how to check the checkbox.
 * [ ] Come up with more to-do's
 
 <!--
