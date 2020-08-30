@@ -4,7 +4,7 @@
 * [ ] Make it actually interesting.
 * [X] Write a self-deprecating joke.
 * [X] Figure out how to check the checkbox.
-* [X] [link to my portfolio website](https://joemurph.com/)
+* [X] [Link to my portfolio website](https://joemurph.com/).
 
 <!--
 **freejoe76/freejoe76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
